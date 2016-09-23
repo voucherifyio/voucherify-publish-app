@@ -1,0 +1,21 @@
+{
+  "name": "Voucherify Publish App",
+  "description": "A sample Node.js app to publish vouchers with customer data",
+  "repository": "https://github.com/voucherifyio/voucherify-publish-app",
+  "logo": "https://raw.githubusercontent.com/voucherifyio/voucherify-publish-app/master/public/voucherify.png",
+  "keywords": ["voucherify", "node", "heroku", "express", "voucher", "coupon"],
+  "env": {
+    "APPLICATION_ID": {
+      "description": "Voucherify Application ID",
+      "value": ""
+    },
+    "APPLICATION_SECRET_KEY": {
+      "description": "Voucherify Application Secret Key",
+      "value": ""
+    },
+    "CAMPAIGN_NAME": {
+      "description": "Campaign with vouchers for publishing",
+      "value": ""
+    }
+  }
+}
