@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample application enables you to publish voucher given by customer with a simple web form. See [**Live Demo**](https://publish-test-app.herokuapp.com)
+This sample application enables you to publish voucher given by customer with a simple web form. See [**Live Demo**](http://voucherify-publish-app.herokuapp.com/)
 
 ## Setup
 
